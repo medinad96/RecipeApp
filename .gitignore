@@ -1,0 +1,14 @@
+
+#Django
+*.log
+*.pot
+__pycache__
+
+*.bak
+
+#Python Virtual Environment
+venv/
+
+# Python Compiler Files
+*.pyc
+
