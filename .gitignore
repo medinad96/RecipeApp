@@ -12,3 +12,4 @@ venv/
 # Python Compiler Files
 *.pyc
 
+.DS_Store
